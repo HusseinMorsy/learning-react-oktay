@@ -1,5 +1,7 @@
 # Learning Git
 
+## Create a new GitHub Project
+
 1. Create a new Project on GitHub
 2. `git init`
 3. `git add .`
